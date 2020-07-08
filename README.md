@@ -5,11 +5,7 @@ Swapify is a platform for users to exchange second-hand clothing and shoes.
 
 ### Background Info:
 Fast fashion is prevalent in our society. 
-<<<<<<< HEAD
 Trendy clothes are quickly manufactured in countries where workers are not paid a fair wage and work in terrible conditions. It is then sold to consumers, who wear the garment until it is out of style or of use and they will discard it. We want to intercept the life cycle of a piece of clothing or shoe and give it a new owner. One person's trash is another person's treasure.
-=======
-Trendy clothes are quickly manufactured in countries where workers are not paid a fair wage and work in terrible conditions. It is then sold to consumers, who wear the garment until it is out of style and they discard/donate it. We want to intercept the life cycle of a piece of clothing or shoe and give it a new owner. Another person's trash is another person's treasure.
->>>>>>> Add readme
 
 
 ## Screenshots of Application:
@@ -20,10 +16,8 @@ Trendy clothes are quickly manufactured in countries where workers are not paid 
 
 ## Getting Started:
 
-<<<<<<< HEAD
 ### Planning:
 - **Entity Relationship Diagram (ERD):**
-
 
 - **User Stories:**
 
@@ -37,11 +31,6 @@ Trendy clothes are quickly manufactured in countries where workers are not paid 
 ## Next Steps: Future Planned Enhancements:
 - **Include more second-hand items for users to exchange:** E.g. Books, electronics
 - **Implement a token-based system:** Instead of users meeting up and exchanging their items through barter or cash, a token system could be implemented.
-=======
-## Next Steps: Future Planned Enhancements:
-- Include more second-hand items for users to exchange. E.g. Books, electronics
-- Implement a token-based system: Instead of users meeting up and exchanging their items through barter or cash, a token system could be implemented.
->>>>>>> Add readme
 - Add reviews: 
 
 
