@@ -19,6 +19,10 @@ Trendy clothes are quickly manufactured in countries where workers are not paid 
 ### Planning:
 - **Entity Relationship Diagram (ERD):**
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> Add user stories
 - **User Stories:**
 
 | As a Visitor: | As an Authenticated User: |
